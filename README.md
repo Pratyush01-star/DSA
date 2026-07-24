@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Pratyush01-star/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pratyush01-star/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/Pratyush01-star/DSA/tree/master/0808-soup-servings) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Pratyush01-star/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
