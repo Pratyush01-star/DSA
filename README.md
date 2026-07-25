@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyush01-star/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Pratyush01-star/DSA/tree/master/0037-sudoku-solver) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pratyush01-star/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Pratyush01-star/DSA/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/Pratyush01-star/DSA/tree/master/0037-sudoku-solver) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyush01-star/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pratyush01-star/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pratyush01-star/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Pratyush01-star/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Pratyush01-star/DSA/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Pratyush01-star/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
