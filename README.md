@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyush01-star/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pratyush01-star/DSA/tree/master/0013-roman-to-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratyush01-star/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pratyush01-star/DSA/tree/master/0013-roman-to-integer) |
 | [0808-soup-servings](https://github.com/Pratyush01-star/DSA/tree/master/0808-soup-servings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyush01-star/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratyush01-star/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pratyush01-star/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pratyush01-star/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pratyush01-star/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratyush01-star/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
