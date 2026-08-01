@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Pratyush01-star/DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Pratyush01-star/DSA/tree/master/0037-sudoku-solver) |
+| [0486-predict-the-winner](https://github.com/Pratyush01-star/DSA/tree/master/0486-predict-the-winner) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pratyush01-star/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyush01-star/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pratyush01-star/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pratyush01-star/DSA/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/Pratyush01-star/DSA/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/Pratyush01-star/DSA/tree/master/0808-soup-servings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyush01-star/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratyush01-star/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Pratyush01-star/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/Pratyush01-star/DSA/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pratyush01-star/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Pratyush01-star/DSA/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/Pratyush01-star/DSA/tree/master/0808-soup-servings) |
 ## Probability and Statistics
 |  |
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratyush01-star/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Pratyush01-star/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
