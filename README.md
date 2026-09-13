@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pratyush01-star/DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Pratyush01-star/DSA/tree/master/0037-sudoku-solver) |
 | [0486-predict-the-winner](https://github.com/Pratyush01-star/DSA/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Pratyush01-star/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Pratyush01-star/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pratyush01-star/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Pratyush01-star/DSA/tree/master/1140-stone-game-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pratyush01-star/DSA/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/Pratyush01-star/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pratyush01-star/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
